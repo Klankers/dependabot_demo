@@ -39,4 +39,4 @@ To enable Dependabot on your fork:
 
 After a few minutes, you should get some more PRs!
 
-This line should have a trailing whitespace.
+This line should have a trailing whitespace. Not anymore!
