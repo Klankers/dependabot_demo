@@ -15,6 +15,7 @@ Dependabot :dependabot:!
 
 - In your fork, click the **Settings** tab
 - In the left hand side navigation, click **Code security and analysis**
+    * This is not there as of 2026-07-27. Go to "Advanced Security" --> "Dependabot" --> "Dependabot security updates".
 - Enable **Dependabot security updates** or **Grouped security updates**
 - Dependabot will now start creating PRs for detected security vulnerabilities
 - Go into the **Security** tab and click **Dependabot** in the left hand side navigation to see what Dependabot is working on
